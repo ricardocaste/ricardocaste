@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-I'm currently working on [![AZBox]](https://azbox.io)AZBox.io<br>I would like to collaborate in early-stage exciting projects. as a partner.<br>I am currently learning about metaverse, IA and machine learning.<br>Ask me about mobile application development, back-end development, front-end development, game development, music, virtual reality...
+I'm currently working on [AZBox](https://azbox.io)AZBox.io<br>I would like to collaborate in early-stage exciting projects. as a partner.<br>I am currently learning about metaverse, IA and machine learning.<br>Ask me about mobile application development, back-end development, front-end development, game development, music, virtual reality...
 
 
 ## 🌐 Socials:
